@@ -27,3 +27,7 @@ PERFORMANCE ON A PI 3:
 
 
 THIS IS A DEBUG VERSION PLEASE USE THE MAIN VERSION IF YOU ARE NOT EXPERIENCING ISSUES
+
+
+For the main version, it is located here:
+https://github.com/Lucamasta9000/Darts-scorer
